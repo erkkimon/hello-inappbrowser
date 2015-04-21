@@ -1,0 +1,27 @@
+2015-04-21 18:47:28.848 hello-inappbrowser[5467:1275272] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Data/Application/9D09E1C5-FA1B-403A-BF51-AF29729A1DE0/Library/Cookies/Cookies.binarycookies
+2015-04-21 18:47:28.985 hello-inappbrowser[5467:1275272] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 18:47:28.986 hello-inappbrowser[5467:1275272] Multi-tasking -> Device: YES, App: YES
+2015-04-21 18:47:28.994 hello-inappbrowser[5467:1275272] Unlimited access to network resources
+2015-04-21 18:47:29.104 hello-inappbrowser[5467:1275272] [CDVTimer][keyboard] 0.523984ms
+2015-04-21 18:47:29.104 hello-inappbrowser[5467:1275272] [CDVTimer][TotalPluginStartup] 0.813961ms
+2015-04-21 18:47:29.413 hello-inappbrowser[5467:1275272] Resetting plugins due to page load.
+2015-04-21 18:47:29.611 hello-inappbrowser[5467:1275272] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/0A38205B-880B-425F-9573-A976413700DC/hello-inappbrowser.app/www/index.html#/app/playlists
+2015-04-21 18:47:32.196 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '151.832275' ms. Plugin should use a background thread.
+2015-04-21 18:47:45.019 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '55.615967' ms. Plugin should use a background thread.
+2015-04-21 18:47:47.994 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '99.178955' ms. Plugin should use a background thread.
+2015-04-21 18:47:50.825 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '55.971924' ms. Plugin should use a background thread.
+2015-04-21 18:48:00.453 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '55.320068' ms. Plugin should use a background thread.
+2015-04-21 18:48:04.176 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '59.957031' ms. Plugin should use a background thread.
+2015-04-21 18:48:11.285 hello-inappbrowser[5467:1275272] THREAD WARNING: ['InAppBrowser'] took '58.513916' ms. Plugin should use a background thread.
+2015-04-21 18:48:57.948 hello-inappbrowser[5693:1284297] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 18:48:57.950 hello-inappbrowser[5693:1284297] Multi-tasking -> Device: YES, App: YES
+2015-04-21 18:48:57.956 hello-inappbrowser[5693:1284297] Unlimited access to network resources
+2015-04-21 18:48:58.041 hello-inappbrowser[5693:1284297] [CDVTimer][keyboard] 0.063002ms
+2015-04-21 18:48:58.042 hello-inappbrowser[5693:1284297] [CDVTimer][TotalPluginStartup] 0.254989ms
+2015-04-21 18:48:58.110 hello-inappbrowser[5693:1284297] Resetting plugins due to page load.
+2015-04-21 18:48:58.324 hello-inappbrowser[5693:1284297] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/A7D13D8D-E74F-4B76-A7F5-4FCB6D7CF5F6/hello-inappbrowser.app/www/index.html#/app/playlists
+2015-04-21 18:48:59.667 hello-inappbrowser[5693:1284297] THREAD WARNING: ['InAppBrowser'] took '82.066162' ms. Plugin should use a background thread.
+2015-04-21 18:49:04.719 hello-inappbrowser[5693:1284297] THREAD WARNING: ['InAppBrowser'] took '65.783936' ms. Plugin should use a background thread.
+2015-04-21 18:49:07.983 hello-inappbrowser[5693:1284297] THREAD WARNING: ['InAppBrowser'] took '68.775879' ms. Plugin should use a background thread.
+2015-04-21 18:49:11.121 hello-inappbrowser[5693:1284297] THREAD WARNING: ['InAppBrowser'] took '66.042725' ms. Plugin should use a background thread.
+2015-04-21 18:49:14.115 hello-inappbrowser[5693:1284297] THREAD WARNING: ['InAppBrowser'] took '60.156982' ms. Plugin should use a background thread.
