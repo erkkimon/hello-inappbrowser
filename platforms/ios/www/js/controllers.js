@@ -41,7 +41,7 @@ angular.module('starter.controllers', [])
       location: 'yes',
       clearcache: 'yes',
       toolbar: 'yes',
-      closebuttoncaption: 'Arvasitko jo?'
+      closebuttoncaption: 'Valmis'
     };
 
 
